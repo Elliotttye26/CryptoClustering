@@ -21,4 +21,5 @@ https://holoviz.org/tutorial/Composing_Plots.html
 https://www.geeksforgeeks.org/clustering-in-machine-learning/
 https://www.geeksforgeeks.org/supervised-unsupervised-learning/
 https://www.mathworks.com/videos/introduction-to-machine-learning-part-2-unsupervised-machine-learning-1542879830916.html?gclid=Cj0KCQiA2eKtBhDcARIsAEGTG42BWXfiK_NoozUDGi8NH5SgZ3PZ_N40JEyfm8I5rMO_cao8r0ZPe0saAnbvEALw_wcB&ef_id=Cj0KCQiA2eKtBhDcARIsAEGTG42BWXfiK_NoozUDGi8NH5SgZ3PZ_N40JEyfm8I5rMO_cao8r0ZPe0saAnbvEALw_wcB:G:s&s_kwcid=AL!8664!3!678616500867!p!!g!!unsupervised%20learning&s_eid=psn_156683448844&q=unsupervised+learning&gad_source=1
+https://stackoverflow.com/questions/40758562/can-anyone-explain-me-standardscaler
 and the class Gitlab examples
